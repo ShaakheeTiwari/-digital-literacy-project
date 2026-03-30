@@ -2,7 +2,9 @@
 # Digital Literacy Project
 
 **Name**: Shaakhee Tiwari  
+
 **Registration No.**: 25BAS10022 
+
 **Course**: CSE0001 (Digital Literacy)  
 
 ---
