@@ -1,7 +1,7 @@
 
 # Digital Literacy Project
 
-**Name**: Shaakhee Tiwari  
+**Name**:  Shaakhee Tiwari  
 
 **Registration No.**: 25BAS10022 
 
