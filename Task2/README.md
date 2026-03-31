@@ -15,11 +15,11 @@
 
 ## 👩‍🚀 About Me
 
-* 🎓 1st Year B.Tech Aerospace Engineering student (Reg No: 25BAS10022)
-* ✈️ Passionate about everything that flies — from aircraft to space missions
-* 🚀 Deeply curious about how ideas turn into real machines that defy gravity
-* 🌌 Always excited to explore the unknown, especially in aviation and space tech
-* 💡 Love experimenting, learning new concepts, and turning them into real projects
+*  1st Year B.Tech Aerospace Engineering student (Reg No: 25BAS10022)
+*  Passionate about everything that flies — from aircraft to space missions
+*  Deeply curious about how ideas turn into real machines that defy gravity
+*  Always excited to explore the unknown, especially in aviation and space tech
+*  Love experimenting, learning new concepts, and turning them into real projects
 
 ---
 
@@ -27,10 +27,10 @@
 
 I’m currently building my foundation step by step:
 
-* 📐 Understanding flight mechanics & aerodynamics
-* 🌍 Learning about atmosphere and environmental factors
-* 💻 Exploring programming, AI, and simulations
-* 🧠 Developing problem-solving and analytical thinking
+*  Understanding flight mechanics & aerodynamics
+*  Learning about atmosphere and environmental factors
+*  Exploring programming, AI, and simulations
+*  Developing problem-solving and analytical thinking
 
 ---
 
@@ -45,10 +45,10 @@ My goal is to combine **technology + creativity + engineering** to contribute to
 
 ## 🛠️ Skills (Growing Every Day)
 
-* 💻 Programming (Beginner → Improving consistently)
-* 📊 Logical & analytical thinking
-* 🎨 Creative approach to solving problems
-* 🤝 Learning to build and present projects
+* Programming (Beginner → Improving consistently)
+*  Logical & analytical thinking
+*  Creative approach to solving problems
+*  Learning to build and present projects
 
 ---
 
