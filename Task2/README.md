@@ -72,9 +72,9 @@ A beginner-friendly AI project that helps users:
 
 ## ✨ Fun Side
 
-* 🌠 Love exploring space-related ideas and concepts
-* ✈️ Curious about aircraft design and flight systems
-* 🎧 Enjoy learning through projects and experimentation
+*  Love exploring space-related ideas and concepts
+*  Curious about aircraft design and flight systems
+*  Enjoy learning through projects and experimentation
 
 ---
 
