@@ -1,1 +1,89 @@
 
+
+
+<h1 align="center">✈️ Hi, I'm Shaakhee 🚀</h1>
+
+<p align="center">
+  🌌 Aerospace Engineering Student | Exploring the Science of Flight & Beyond
+</p>
+
+<p align="center">
+  <i>"The sky is not the limit — it's just the beginning."</i>
+</p>
+
+---
+
+## 👩‍🚀 About Me
+
+* 🎓 1st Year B.Tech Aerospace Engineering student (Reg No: 25BAS10022)
+* ✈️ Passionate about everything that flies — from aircraft to space missions
+* 🚀 Deeply curious about how ideas turn into real machines that defy gravity
+* 🌌 Always excited to explore the unknown, especially in aviation and space tech
+* 💡 Love experimenting, learning new concepts, and turning them into real projects
+
+---
+
+## 🚀 My Learning Journey
+
+I’m currently building my foundation step by step:
+
+* 📐 Understanding flight mechanics & aerodynamics
+* 🌍 Learning about atmosphere and environmental factors
+* 💻 Exploring programming, AI, and simulations
+* 🧠 Developing problem-solving and analytical thinking
+
+---
+
+## 🛰️ What Drives Me
+
+I’m fascinated by how engineering and technology make the impossible possible —
+from airplanes in the sky to missions in space.
+
+My goal is to combine **technology + creativity + engineering** to contribute to future innovations.
+
+---
+
+## 🛠️ Skills (Growing Every Day)
+
+* 💻 Programming (Beginner → Improving consistently)
+* 📊 Logical & analytical thinking
+* 🎨 Creative approach to solving problems
+* 🤝 Learning to build and present projects
+
+---
+
+## 🚀 Projects
+
+### 🤖 Smart AI Interview Analyzer
+
+A beginner-friendly AI project that helps users:
+
+* Practice interview questions
+* Get instant feedback
+* Improve confidence and communication skills
+
+---
+
+## 🌌 Vision
+
+> To build knowledge and skills that can one day contribute to advancements in aviation and space technology 🚀
+
+---
+
+## ✨ Fun Side
+
+* 🌠 Love exploring space-related ideas and concepts
+* ✈️ Curious about aircraft design and flight systems
+* 🎧 Enjoy learning through projects and experimentation
+
+---
+
+## 📫 Let's Connect
+
+Github : https://github.com/ShaakheeTiwari
+
+---
+
+  🌟 The sky is the limit , it's just the view
+</p>
+
